@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Game</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="./main.js" defer></script>
+    <script src="./app.js" defer></script>
+</head>
+<body>
+    
+   <div id="app">
+     <h2 class="head">QUIZ GAME</h2>
+     <div class="start" style="display: non;">
+
+        <section class="start-section">
+            <h3>Presenting to You The New Quiz Game</h3>
+            <p>
+              Many of you have seen the popular show, <q> Who Wants To Be A Millionaire! </q>, and the amount of <strong>cash prize</strong>
+              presented to whoever can pass the checkpoints set. Well, <strong>sorry to say</strong>, there won&apos;t be any cash prize in this one, but you will be crowned as Albert Einstein&apos;s apprentice. 
+            </p>
+            <p>
+                The quiz consists of features similar to those of <q> Who Wants To Be A Millionaire! </q> i.e a counter with levels and utility helpers.
+               <div><strong>**</strong> You get the chance to pick number of questions you want, with various choices of question types including hints and powerups <strong>**</strong></div>
+               <p>
+                 <strong style="text-decoration: 2px underline;">Note:</strong> Some features are unavailable due to app being rendered while in production. This is only
+                 a test as things could go wrong!
+               </p>
+
+              </p>
+              <button id="goto-page-2">Proceed</button>
+        </section>
+
+        <section class="features-page">
+            <div>
+                <div>
+                   <h3>Number of Questions</h3>
+                   <div><input type="radio" name="qNumber" value="10" /> 10</div>
+                   <div><input type="radio" name="qNumber" value="20" /> 20</div>
+                   <div><input type="radio" name="qNumber" value="30" /> 30</div>
+                   <div><input type="radio" name="qNumber" value="40" /> 40</div>
+                   <div><input type="radio" name="qNumber" value="50" /> 50</div>
+                </div>
+                
+                <div>
+                  <h3>Time per Questions</h3>
+                  <div><input type="radio" name="qTime" value="300000" /> 5 minutes</div>
+                  <div><input type="radio" name="qTime" value="600000" /> 10 minutes</div>
+                  <div><input type="radio" name="qTime" value="1200000" /> 20 minutes</div>
+                  <div><input type="radio" name="qTime" value="1800000" /> 30 minutes</div>
+                  <div><input type="radio" name="qTime" value="2700000" /> 45 minutes</div>
+               </div>
+               <div>
+                  <h3>Subject</h3>
+                  <div><input type="radio" name="qType" value="" /> All</div>
+                  <div><input type="radio" name="qType" value="General Knowledge" /> General Knowledge</div>
+                  <div><input type="radio" name="qType" value="Chemistry" /> Chemistry</div>
+                  <div><input type="radio" name="qType" value="Physics" /> Physics</div>
+                  <div><input type="radio" name="qType" value="Mathematics" /> Mathematics</div>
+                  <div><input type="radio" name="qType" value="Musical World" /> Music</div>
+                  
+               </div>
+              </div>
+              <div class="page2-buttons"><button id="backto-page-1">Back</button> <button id="start-game">Start</button></div>
+        </section>
+     </div>
+     <section id="app-face">
+      <!-- <div>
+      <div class="app-head"> <h3 id="q-no">Question 1</h3> <div class="time-container" data-time=""><div id="time-taken"></div></div></div>
+    <div class="current-question">
+       <div id="question">Q: <span class="question">Who was the first woman to fly solo across the Atlantic Ocean?</span></div>
+       <div class="options">
+       </div>
+    </div>
+    <div class="question-switch"><select id="quiz-switch"></select></div>
+    <div class="app-face-control"><button id="app-back">Back</button> <button id="app-next">Next</button></div>
+    <div class="app-flex"><button id="submit">SUBMIT</button></div>
+   </div> -->
+
+      <!-- <div class="quiz-result">
+         <div class="quiz-image">
+            <img src="success.webp" alt="" />
+         </div>
+         <div class="quiz-details">
+         <div>
+            <h3>Great Job!</h3>
+         </div>
+         <div><h2>80%</h2></div>
+         <div>
+            <div>You got 40 out of 50 questions.</div>
+         </div>
+         <div><button>Play Again</button></div>
+      </div> 
+   </div> -->
+  </section>
+   </div>
+    <div id="modal"></div> 
+
+   
+</body>
+</html>
