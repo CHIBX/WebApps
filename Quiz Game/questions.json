@@ -1,0 +1,554 @@
+{
+    "questions": [
+      {
+        "t": "General Knowledge",
+        "q": "What is Nigeria's Independence Day?",
+        "opts": {
+          "1": "June 12th",
+          "2": "August 31st",
+          "3": "February 23rd",
+          "4": "October 1st"
+        },
+        "ans": "October 1st"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "opts": {
+          "1": "June Hearthens",
+          "2": "Marie Josie",
+          "3": "Amelia Earhart",
+          "4": "Augustine Bolivie"
+        },
+        "ans": "Amelia Earhart"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "What is a group of crows called?",
+        "opts": {
+          "1": "A flock",
+          "2": "A hiate",
+          "3": "A murder",
+          "4": "A bunch"
+        },
+        "ans": "A murder"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "Who painted the Mona Lisa?",
+        "opts": {
+          "1": "Michealangelo",
+          "2": "Raphael",
+          "3": "Leonardo",
+          "4": "Donnatelo"
+        },
+        "ans": "Leornado"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "What is the name of the largest ocean in the world?",
+        "opts": {
+          "1": "Atlantic Ocean",
+          "2": "Red Guinea Bay",
+          "3": "Indian Ocean",
+          "4": "Pacific Ocean"
+        },
+        "ans": "Pacific Ocean"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "What was the original name of the 'Google' search engine?",
+        "opts": {
+          "1": "Help Guy",
+          "2": "BackRub",
+          "3": "Big G",
+          "4": "Zone94"
+        },
+        "ans": "BackRub"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "What deficiency can be cured with Vitamin K?",
+        "opts": {
+          "1": "Blood Clotting",
+          "2": "Scurvy",
+          "3": "Infertilty",
+          "4": "Hyperthyroidism"
+        },
+        "ans": "Blood Clotting"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "Who is the mascot for the fast-food chain, KFC?",
+        "opts": {
+          "1": "Julius Aortim",
+          "2": "Colonel Sanders",
+          "3": "Cornelius Sanders",
+          "4": "Fredrick Portiva"
+        },
+        "ans": "Colonel Sanders"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "What is the chemical symbol for Lead?",
+        "opts": {
+          "1": "Pb",
+          "2": "Ld",
+          "3": "Pd",
+          "4": "De"
+        },
+        "ans": "Pb"
+      },
+      {
+        "t": "General Knowledge",
+        "q": "Who led 900 followers in a mass suicide in 1979?",
+        "opts": {
+          "1": "Jim Jones",
+          "2": "Jack Stones",
+          "3": "Jio Josine",
+          "4": "Charles Thriston"
+        },
+        "ans": "Jim Jones"
+      },
+      {
+        "t": "Chemistry",
+        "q": "What is the chemical symbol for gold?",
+        "opts": {
+          "1": "Au",
+          "2": "Ag",
+          "3": "Fe",
+          "4": "Cu"
+        },
+        "ans": "Au"
+      },
+      {
+        "t": "Chemistry",
+        "q": "Which of the following is a noble gas?",
+        "opts": {
+          "1": "Oxygen",
+          "2": "Nitrogen",
+          "3": "Helium",
+          "4": "Carbon"
+        },
+        "ans": "Helium"
+      },
+      {
+        "t": "Chemistry",
+        "q": "Which of the following options does not belong to group 7 Element?",
+        "opts": {
+          "1": "Fluorine",
+          "2": "Chlorine",
+          "3": "Iozine",
+          "4": "Bromine"
+        },
+        "ans": "Iozine"
+      },
+      {
+        "t": "Chemistry",
+        "q": "What is the pH of a neutral solution?",
+        "opts": {
+          "1": "0",
+          "2": "7",
+          "3": "14",
+          "4": "None of the above"
+        },
+        "ans": "7"
+      },
+      {
+        "t": "Chemistry",
+        "q": "Which of the following is a chemical change?",
+        "opts": {
+          "1": "Melting of ice to water",
+          "2": "Boiling Water in a test tube",
+          "3": "Burning of rubber",
+          "4": "Cutting Paper"
+        },
+        "ans": "Burning of rubber"
+      },
+      {
+        "t": "Chemistry",
+        "q": "What is the atomic number of Carbon?",
+        "opts": {
+          "1": "1",
+          "2": "6",
+          "3": "18",
+          "4": "12"
+        },
+        "ans": "6"
+      },
+      {
+        "t": "Chemistry",
+        "q": "Which of the following belongs to the Halogen family on the periodic table?",
+        "opts": {
+          "1": "Sodium",
+          "2": "Chlorine",
+          "3": "Calcium",
+          "4": "Iron"
+        },
+        "ans": "Chlorine"
+      },
+      {
+        "t": "Chemistry",
+        "q": "What is the solution formed from the mixture of acid(strong) and base (strong)?",
+        "opts": {
+          "1": "Salt & Water",
+          "2": "Effervescence occurs",
+          "3": "Salt only due total drying of resident solution",
+          "4": "Water i.e they both mix equally"
+        },
+        "ans": "Salt & Water"
+      },
+      {
+        "t": "Chemistry",
+        "q": "Which of the following is not a metal hydride?",
+        "opts": {
+          "1": "NaH",
+          "2": "KH",
+          "3": "MgH",
+          "4": "None of the above"
+        },
+        "ans": "MgH"
+      },
+      {
+        "t": "Chemistry",
+        "q": "Which of the following gases is majorly responsible for acid rain?",
+        "opts": {
+          "1": "Lead (IV) Oxide",
+          "2": "Lead (VI) Oxide",
+          "3": "Sulphur (IV) Oxide",
+          "4": "Sulphur (VI) Oxide"
+        },
+        "ans": "Sulphur (IV) Oxide"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of the following is a scalar quantity?",
+        "opts": {
+          "1": "Velocity",
+          "2": "Distance",
+          "3": "Acceleration",
+          "4": "Force"
+        },
+        "ans": "Distance"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of the following is an example of projectile motion?",
+        "opts": {
+          "1": "A car driving on a straight road",
+          "2": "A ball thrown into the air",
+          "3": "A person walking down the street",
+          "4": "A boat moving throwing water"
+        },
+        "ans": "A ball thrown into the air"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of these is the unit for power?",
+        "opts": {
+          "1": "Newton",
+          "2": "Joule",
+          "3": "Watt",
+          "4": "Pascal"
+        },
+        "ans": "Watt"
+      },
+      {
+        "t": "Physics",
+        "q": "Which is not an example of non-conversation force?",
+        "opts": {
+          "1": "Gravity",
+          "2": "Friction",
+          "3": "Spring force",
+          "4": "Electric force"
+        },
+        "ans": "Friction"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of the following is a unit of electrical charge?",
+        "opts": {
+          "1": "Volt",
+          "2": "Ampere",
+          "3": "Coulomb",
+          "4": "Watt"
+        },
+        "ans": "Coulomb"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of these is an example of vector quantity?",
+        "opts": {
+          "1": "Temperature",
+          "2": "Mass",
+          "3": "Density",
+          "4": "Time"
+        },
+        "ans": "Density"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of these is a first-class lever?",
+        "opts": {
+          "1": "Fulcrum",
+          "2": "See-saw",
+          "3": "Broom",
+          "4": "Pulley"
+        },
+        "ans": "See-saw"
+      },
+      {
+        "t": "Physics",
+        "q": "What is the formula for Kinetic Energy?",
+        "opts": {
+          "1": "KE=m * g * h",
+          "2": "KE=0.5 * m * v^2",
+          "3": "KE=m * (h + g)",
+          "4": "KE=(v^2) / h * g"
+        },
+        "ans": "KE=0.5 * m * v^2"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of these radioactive groups is not a particle?",
+        "opts": {
+          "1": "alpha",
+          "2": "beta",
+          "3": "gamma",
+          "4": "None of the above"
+        },
+        "ans": "gamma"
+      },
+      {
+        "t": "Physics",
+        "q": "Which of these is an example of longitudinal waves?",
+        "opts": {
+          "1": "Sound Waves",
+          "2": "Light waves",
+          "3": "Electromagnetic waves",
+          "4": "Water waves"
+        },
+        "ans": "Sound Waves"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the value of x in the equation \n 2x + 5 = 17?",
+        "opts": {
+          "1": "6",
+          "2": "7",
+          "3": "8",
+          "4": "9"
+        },
+        "ans": "6"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the square root of 169?",
+        "opts": {
+          "1": "14",
+          "2": "12",
+          "3": "13",
+          "4": "16"
+        },
+        "ans": "13"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What does (x+y)(x-y) evaluate to?",
+        "opts": {
+          "1": "x^2 + xy + xy^2 - x^2y",
+          "2": "x^2 - xy + xy^2 - x^2y",
+          "3": "x^2 - y^2",
+          "4": "(xy)^2 - 2y +2x + 2xy"
+        },
+        "ans": "x^2 - y^2"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is slope of the line passing through the point (2, 3) and (4, 7)?",
+        "opts": {
+          "1": "1/2",
+          "2": "-1/2",
+          "3": "2",
+          "4": "-2"
+        },
+        "ans": "2"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the value of sin(45°)?",
+        "opts": {
+          "1": "0",
+          "2": "1/2",
+          "3": "√2/2",
+          "4": "(√3/2) - 1"
+        },
+        "ans": "√2/2"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the value of log(1000)?",
+        "opts": {
+          "1": "2.336",
+          "2": "3.000",
+          "3": "1.429",
+          "4": "5.028"
+        },
+        "ans": "3.000"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the value of (5! - 4!)?",
+        "opts": {
+          "1": "68",
+          "2": "96",
+          "3": "24",
+          "4": "120"
+        },
+        "ans": "68"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the value of tan(60°)?",
+        "opts": {
+          "1": "0",
+          "2": "1/√3",
+          "3": "√3",
+          "4": "1"
+        },
+        "ans": "√3"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the value of x's coefficient in \n 3x - 7 = 8x + 1?",
+        "opts": {
+          "1": "-3",
+          "2": "3",
+          "3": "-5",
+          "4": "7"
+        },
+        "ans": "-5"
+      },
+      {
+        "t": "Mathematics",
+        "q": "What is the differentiation of x^2 + 2x^3 +7x?",
+        "opts": {
+          "1": "2x + 6x + 7",
+          "2": "2x^2 + 6x^3 + 7x",
+          "3": "2x + 6x^2 + 7",
+          "4": "x^-2 + 6x^-3 + x^(1/7)"
+        },
+        "ans": "2x + 6x^2 + 7"
+      },
+      {
+        "t": "Musical World",
+        "q": "Who is the only artist to have won Album of the Year at the Grammys 3 times in a row?",
+        "opts": {
+          "1": "Adele",
+          "2": "Taylor Swift",
+          "3": "Stevie Wonder",
+          "4": "Frank Sinatra"
+        },
+        "ans": "Taylor Swift"
+      },
+      {
+        "t": "Musical World",
+        "q": "Who was the first rapper to win the Pulitzer Prize for Music?",
+        "opts": {
+          "1": "Kendrick Lamar",
+          "2": "Eminem",
+          "3": "Jay-Z",
+          "4": "NF"
+        },
+        "ans": "Kendrick Lamar"
+      },
+      {
+        "t": "Musical World",
+        "q": "Which song is the best-selling single of all time?",
+        "opts": {
+          "1": "Candle in the Wind 1997",
+          "2": "White Christmas",
+          "3": "I Will Always Love You",
+          "4": "Happy Birthday to You"
+        },
+        "ans": "A Candle in the Wind 1997"
+      },
+      {
+        "t": "Musical World",
+        "q": "Which artist has one the most Grammys in a single night?",
+        "opts": {
+          "1": "Beyonce",
+          "2": "Adele",
+          "3": "Michael Jackson",
+          "4": "Quincy Jones"
+        },
+        "ans": "Adele"
+      },
+      {
+        "t": "Musical World",
+        "q": "The song 'Pray For Me ' by Kendrick Lamar featured which artist?",
+        "opts": {
+          "1": "Adele",
+          "2": "Justin Beiber",
+          "3": "The Weekend",
+          "4": "David Guetta"
+        },
+        "ans": "The Weekend"
+      },
+      {
+        "t": "Musical World",
+        "q": "Which band was originally called 'The New Yardbirds'?",
+        "opts": {
+          "1": "The Who",
+          "2": "Led Zeppelin",
+          "3": "The Rolling Stones",
+          "4": "The Beatles"
+        },
+        "ans": "Led Zeppelin"
+      },
+      {
+        "t": "Musical World",
+        "q": "Which pop singer had the most instagram account as of March 2021?",
+        "opts": {
+          "1": "Ariana Grande",
+          "2": "Taylor Swift",
+          "3": "Selena Gomez",
+          "4": "Beyonce"
+        },
+        "ans": "Selena Gomez"
+      },
+      {
+        "t": "Musical World",
+        "q": "Which 'NSYNC' was a substitute for another who quit just before the band got big?",
+        "opts": {
+          "1": "Justin TimberLake",
+          "2": "JC Chasez",
+          "3": "Joey Fatone",
+          "4": "Lance Bass"
+        },
+        "ans": "Lance Bass"
+      },
+      {
+        "t": "Musical World",
+        "q": "Which K-pop group became the first to perform at the American Music Awards in 2017?",
+        "opts": {
+          "1": "BTS",
+          "2": "Blackpink",
+          "3": "Twice",
+          "4": "EXO"
+        },
+        "ans": "BTS"
+      },
+      {
+        "t": "Musical World",
+        "q": "Which K-pop group has won the Artist of the Year award at the Mnet Asian Music Awards the most?",
+        "opts": {
+          "1": "Blackpink",
+          "2": "BTS",
+          "3": "EXO",
+          "4": "Twice"
+        },
+        "ans": "EXO"
+      }
+    ]
+  }
