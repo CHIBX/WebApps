@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <title>Document</title>
+    <script src="./list.min.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="back-g"></div>
+        <div class="app">
+         <div class="app-layer-3" style="visibility: hidde;">
+            <input type="checkbox" id="chkAll">
+            <i class="material-symbols-outlined close">delete</i>
+            <i class="material-symbols-outlined star">star</i>
+            <i class="material-symbols-outlined done">done</i>
+          </div>
+            <div class="app-layer-1"><h2 class="app-head">TODO</h2> <span title="Switch to Light Theme" id="theme-cont" class="material-symbols-outlined">sunny</span></div>
+            <div class="inner-layer">
+            <div class="app-layer-2">
+               <input type="text" id="text-todo" autocomplete="off" placeholder="Create a new todo..." />
+               <i class="material-symbols-outlined add-item">
+                add
+               </i>
+           </div>
+           <div class="app-layer-4">
+           <div class="list-container">
+              <div class="list-item" draggable="true"  data-tracker="J1uV5S1" data-created="1686832432805" data-due="1688118832805">
+                 <input type="checkbox" autocomplete="off"/>
+                 <span>Complete online JavaScript Course</span>
+                 <i class="material-symbols-outlined drag">drag_pan</i>
+                 <i class="material-symbols-outlined close">delete</i>
+              </div>
+              
+            </div> 
+           </div>
+           </div>
+           <div class="app-layer-5">
+             <span><span id="num-select">0</span> selected</span>
+             <div class="app-layer-6">
+               <div class="filter-abs">
+                  <div class="filter">All</div>
+                  <div id="filters" style="height: 0px;">
+                     <div data-value="default" class="selected">Default</div>
+                     <div data-value="created">Created</div>
+                     <div data-value="completed">Completed</div>
+                     <div data-value="expired">Abandoned</div>
+                     <div data-value="urgent">Important</div>
+                  </div>
+               </div>
+            </div>
+             <span id="clear-comp">Clear Completed</span>
+           </div>
+           <div class="note"><span>Drag and drop to reorder list</span></div>
+        </div>
+    </div>
+    
+</body>
+</html>

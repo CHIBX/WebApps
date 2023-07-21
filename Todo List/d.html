@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .drag {
+          width: 100px;
+          height: 100px;
+          background-color: red;
+          color: white;
+          text-align: center;
+          line-height: 100px;
+          cursor: move;
+        }
+        .drop {
+          width: 200px;
+          height: 200px;
+          background-color: gray;
+          margin-top: 20px;
+        }
+      </style>
+      <script>
+        function drag(event) {
+            event.dataTransfer.effectAllowed='move'
+          event.dataTransfer.setData("text/plain", event.target.outerHTML);
+        }
+        function allowDrop(event) {
+          event.preventDefault();
+        }
+        function drop(event) {
+          event.preventDefault();
+          event.dataTransfer.dropEffect='move'
+          var data = event.dataTransfer.getData("text/plain");
+          event.target.innerHTML = data;
+        }
+      </script>
+    </head>
+    <body>
+      <div class="drag" draggable="true" ondragstart="drag(event)">Drag me</div>
+      <div class="drop" ondragover="allowDrop(event)" ondrop="drop(event)"></div>
+    </body>
+</html>

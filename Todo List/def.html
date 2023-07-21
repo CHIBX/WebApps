@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="sortable-list">
+        <li draggable="true">
+          <span class="drag-icon">&#9776;</span>
+          Item 1
+        </li>
+        <li draggable="true">
+          <span class="drag-icon">&#9776;</span>
+          Item 2
+        </li>
+        <li draggable="true">
+          <span class="drag-icon">&#9776;</span>
+          Item 3
+        </li>
+      </ul>
+
+    <script>
+        const items = document.querySelectorAll('#sortable-list li');
+
+function handleDragStart(e) {
+  // Add styling or other effects to indicate the item is being dragged
+  e.dataTransfer.setData('text/html', e.target.innerHTML);
+}
+
+function handleDragOver(e) {
+  e.preventDefault();
+  // Add styling or other effects to indicate the drop target
+}
+
+function handleDragEnter(e) {
+  e.preventDefault();
+  // Add styling or other effects to indicate the drop target
+}
+
+function handleDrop(e) {
+  e.preventDefault();
+  const data = e.dataTransfer.getData('text/html');
+  e.target.innerHTML = data;
+}
+
+items.forEach(item => {
+  item.addEventListener('dragstart', handleDragStart);
+  item.addEventListener('dragover', handleDragOver);
+  item.addEventListener('dragenter', handleDragEnter);
+  item.addEventListener('drop', handleDrop);
+});
+    </script>
+</body>
+</html>
